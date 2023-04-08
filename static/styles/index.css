@@ -194,3 +194,6 @@ main{
     height: 655px;
     padding-left: 20px;
 }
+.icon img {
+    width: 50px;   
+}
