@@ -178,6 +178,14 @@ width: 90%;
   left: 281px;
 }
 
+.left .about_mem{    /* left members 's about text aligned */
+  left: 20px;
+}
+
+.right .members{
+  left: 281px;
+}
+
 #logo{
   padding: 0px;
 }
